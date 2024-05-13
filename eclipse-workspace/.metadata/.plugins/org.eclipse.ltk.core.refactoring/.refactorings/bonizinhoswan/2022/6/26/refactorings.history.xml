@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;BoniSwan.java&apos; to &apos;QuartsToGallonsInteractive.java&apos;&#x0D;&#x0A;- Original project: &apos;bonizinhoswan&apos;&#x0D;&#x0A;- Original element: &apos;BoniSwan.java&apos;&#x0D;&#x0A;- Renamed element: &apos;QuartsToGallonsInteractive.java&apos;" description="Rename compilation unit &apos;BoniSwan.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{BoniSwan.java" name="QuartsToGallonsInteractive.java" references="false" stamp="1656027310425" version="1.0"/>
+</session>
